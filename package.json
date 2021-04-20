@@ -19,7 +19,9 @@
   "homepage": "https://github.com/neptune92/employee-tracker#readme",
   "dependencies": {
     "console.table": "^0.10.0",
+    "constant-db": "^2.0.4",
     "inquirer": "^8.0.0",
-    "mysql": "^2.18.1"
+    "mysql": "^2.18.1",
+    "seed": "^0.4.4"
   }
 }
